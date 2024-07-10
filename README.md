@@ -30,19 +30,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | > Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo
-
-{REGRAS}
-> No máximo 5 linhas por blocos de explicação
-> Me explique de maneira informal, como se eu fosse uma criança de 10 anos
-> Os blocos que serão criados estão abaixo:
-- O que são diretivas no angular
-- O que são diretivas estruturais
-	- Cite exemplos com código de diretivas estruturais
-- O que são diretivas de atributos
-	- Cite exemplos com código de diretivas atributos
-- Faça um call to action para as minhas redes sociais
-- Coloque 3 hastags que façam sentido	|
+| conteúdo | > Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo {REGRAS} > No máximo 5 linhas por blocos de explicação > Me explique de maneira informal, como se eu fosse uma criança de 10 anos > Os blocos que serão criados estão abaixo: - O que são diretivas no angular - O que são diretivas estruturais 	- Cite exemplos com código de diretivas estruturais - O que são diretivas de atributos 	- Cite exemplos com código de diretivas atributos - Faça um call to action para as minhas redes sociais - Coloque 3 hastags que façam sentido		    |
 
 
 Lexica.art：
